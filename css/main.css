@@ -1,0 +1,130 @@
+* {
+  box-sizing: border-box;
+
+}
+.glyphicon{
+  padding-top: .75em;
+  transform: scale(6);
+  color: black;
+}
+.bg{
+  padding-bottom: 4em;
+  background: linear-gradient(rgb(200,100,100), rgb(250, 176, 249));
+}
+h1{
+  font-family: 'Metal Mania', cursive;
+  text-shadow: 0 6px 6px black;
+  font-size: 8em;
+  color: white;
+  line-height: .9em;
+}
+h2{
+  font-family: 'Metal Mania', cursive;
+  text-shadow: 0 6px 6px black;
+  font-size: 2em;
+  color: white;
+  line-height: .5em;
+}
+h3{
+  font-family: 'Metal Mania', cursive;
+  text-shadow: 0 6px 6px pink;
+  font-size: 6em;
+  color: black;
+  line-height: .9em;
+}
+h4{
+  font-family: 'Metal Mania', cursive;
+  font-size: 4.5em;
+  color: gray;
+  line-height: 1em;
+}
+h5{
+  font-family: 'Metal Mania', cursive;
+  font-size: 4.5em;
+  color: black;
+  line-height: .9em;
+}
+h6{
+  font-family: 'Metal Mania', cursive;
+  font-size: 2em;
+  color: black;
+  line-height: .9em;
+}
+
+.button1{
+  font-family: 'Metal Mania', cursive;
+  margin-top: 4em;
+  font-size: 1.5em;
+  text-shadow: 0 2px 2px pink;
+  padding: 6em;
+  border-radius: 4px;
+  height: 10px;
+  color:white;
+  background-color: black;
+  border-color: black;
+  box-shadow: 0 6px 6px grey;
+  border: 2px;
+  margin-right: 10px;
+}
+.button1:hover{
+  font-family: 'Metal Mania', cursive;
+  transform: scale(1.05);
+  text-shadow: 0 2px 2px pink;
+  color: black;
+  background-color: white;
+  border-color: black;
+  box-shadow: 0 6px 6px pink;
+  border: 2px;
+}
+.button2{
+  font-family: 'Metal Mania', cursive;
+  margin-top: 4em;
+  font-size: 1.5em;
+  text-shadow: 0 2px 2px pink;
+  padding: 6em;
+  border-radius: 4px;
+  height: 10px;
+  color: white;
+  background-color: black;
+  border-color: black;
+  box-shadow: 0 6px 6px grey;
+  border: 2px;
+  margin-left: 10px;
+}
+.button2:hover{
+  font-family: 'Metal Mania', cursive;
+  transform: scale(1.05);
+  text-shadow: 0 2px 2px pink;
+  color: black;
+  background-color: white;
+  border-color: black;
+  box-shadow: 0 6px 6px pink;
+  border: 2px;
+}
+.button3{
+  margin-top: 2em;
+  margin-bottom: 2em;
+  font-size: 1.5em;
+  text-shadow: 0 2px 2px white;
+  height: 10px;
+  color:black;
+  background-color: transparent;
+}
+.button3:hover{
+  font-family: 'Metal Mania', cursive;
+  transform: scale(1.25);
+  text-shadow: 0 2px 2px white;
+  color: white;
+  background-color: transparent;
+}
+
+.con{
+  margin:auto;
+}
+
+.foot{
+  margin-top: 4em;
+  background-color: black;
+  height: 15px;
+  width: 100%;
+}
